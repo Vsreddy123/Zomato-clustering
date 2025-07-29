@@ -87,9 +87,9 @@ The clustering output allows:
 
 ## 🧠 Author
 
-**Nameless (Jayanth M)**  
+**Nameless (V SANDEEP REDDY)**  
 ML & Data Science Enthusiast  
-[Your GitHub link] | [Your LinkedIn link]
+[Your GitHub link]() | [Your LinkedIn link]()
 
 ---
 
