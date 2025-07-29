@@ -89,7 +89,7 @@ The clustering output allows:
 
 **Nameless (V SANDEEP REDDY)**  
 ML & Data Science Enthusiast  
-[Your GitHub link]() | [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-385236250/)
+[GitHub](https://github.com/Vsreddy123) | [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-385236250/)
 
 ---
 
