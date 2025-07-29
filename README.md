@@ -87,7 +87,7 @@ The clustering output allows:
 
 ## 🧠 Author
 
-**Nameless (V SANDEEP REDDY)**  
+**V SANDEEP REDDY**  
 ML & Data Science Enthusiast  
 [GitHub](https://github.com/Vsreddy123) | [LinkedIn](https://www.linkedin.com/in/sandeep-reddy-385236250/)
 
